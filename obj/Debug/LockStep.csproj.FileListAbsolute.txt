@@ -1,0 +1,7 @@
+F:\LockStep\bin\Debug\LockStep.exe.config
+F:\LockStep\bin\Debug\LockStep.exe
+F:\LockStep\bin\Debug\LockStep.pdb
+F:\LockStep\obj\Debug\LockStep.csproj.AssemblyReference.cache
+F:\LockStep\obj\Debug\LockStep.csproj.CoreCompileInputs.cache
+F:\LockStep\obj\Debug\LockStep.exe
+F:\LockStep\obj\Debug\LockStep.pdb
